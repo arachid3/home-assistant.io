@@ -10,4 +10,4 @@ footer: true
 redirect_from: /ecosystem/notebooks/database/
 ---
 
-You can directly access the Home-Assistant database from Jupyter notebooks. The [Database example](http://nbviewer.jupyter.org/github/home-assistant/home-assistant-notebooks/blob/master/database-examples.ipynb) shows you how you can work with stored database values.
+You can directly access the Home-Assistant database from Jupyter notebooks. The [Database example](https://github.com/home-assistant/home-assistant-notebooks/blob/master/other/database-examples.ipynb) shows you how you can work with stored database values.
